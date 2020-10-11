@@ -6,7 +6,7 @@
 360 Courier accepts a single command line argument, this argument consists of semi-colon separated key value pairs.
 
 ```cmd
-"<CourierFullPath>" "patfirstname=Jennifer;patlastname=Brown;patsex=female;dpsprojectfilepath=D:\cases\35741 - brown, jennifer.dps;"
+"<CourierFullPath>" "patfirstname=<first name>;patlastname=<last name>;patsex=<gender>;dpsprojectfilepath=<file path>;"
 ```
 
 ### Courier Full Path value <CourierFullPath>
