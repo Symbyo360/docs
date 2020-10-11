@@ -21,8 +21,8 @@
 * **patbirthdate:** Patient's date of birth (yyyyMMdd) (optional)
 * **guidetype:** Guide Type  (optional)
 * **implanttype:** Implant Type  (optional)
-* **implantupperarch:** Teeth to be restored in the upper arch (v0.15+), Using universal numbering
-* **implantlowerarch:** Teeth to be restored in the lower arch (v0.15+), Using universal numbering
+* **implantupperarch:** Teeth to be restored in the upper arch (v0.15+), [Using universal numbering](https://en.wikipedia.org/wiki/Universal_Numbering_System)
+* **implantlowerarch:** Teeth to be restored in the lower arch (v0.15+), [Using universal numbering](https://en.wikipedia.org/wiki/Universal_Numbering_System)
 
 ### Example:
 
